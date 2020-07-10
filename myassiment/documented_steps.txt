@@ -1,0 +1,15 @@
+1.Open eclipse IDE with workspace /home/ubuntu/eclipse-workspace
+2.click window > show View>Git Repositories
+3.click git-repsitories >clone a git repositories Enter the Url:https://github.com/sagararora786/myAssignment.git
+4.give directory path /home/ubuntu/eclipse-workspace/myassiment > click next
+5.Right click the project select import> Java Project> Give directory  /home/ubuntu/eclipse-workspace/myassiment
+6.It will create the project.
+7.Run the Main.java
+8.src file contain
+9.Main.java to run the application
+10.fileNameDisplay to create the file
+11.allFile.java to sort the file in assending order
+12.deleteTheFile.java to delete the file
+13.serachFile.java to serach specific file
+14.Console will contain the application is running.
+15.Stop application by pressing 3 from main menu.

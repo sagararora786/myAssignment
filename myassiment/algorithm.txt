@@ -1,0 +1,13 @@
+Algorithms: To start the LockedMe.com project.
+Step 1: Start
+Step 2: Click on eclipse IDE
+Step 3: Clone the GitHub.
+Step 4: run the Main class 
+Step 5: Enter the first option 1 which display the file in ascending order.
+Step 6: Business level operation
+Step 7: is the create valid file name
+Step 8: This operation will delete the file.
+Step 9: This operation will search the file.
+Step 10: Will go back to previous menu.
+Step 11: Next operation will exit me to application.
+Step 12: Stop.
